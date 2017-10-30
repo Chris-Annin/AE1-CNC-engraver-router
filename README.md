@@ -13,7 +13,7 @@ All stepper motors and power supply are available from  [www.omc-stepperonline.c
 
 Overview: [Overview Video](https://youtu.be/-d7oNVzQT3E)
 
-Software and Calibration: [Calibration Video](https://youtu.be/BozgdjE-HR8)
+Software and Calibration: [Calibration Video](https://youtu.be/DCINQfvQelU)
 
 Engraving Example: [Engraving Video](https://youtu.be/FIx6olybAeQ)
 
