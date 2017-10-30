@@ -8,7 +8,7 @@ This project includes:
 
 All stepper motors and power supply are available from  [www.omc-stepperonline.com](https://www.omc-stepperonline.com/?tracking=59c1139e8987b) and all other misc. hardware are off-the-shelf items available from multiple sources (see the bill of materials).
 
-[![Alt text](https://img.youtube.com/vi/CCgI4R1TEzI/0.jpg)](https://www.youtube.com/watch?v=CCgI4R1TEzI)
+[![Alt text](https://img.youtube.com/vi/d7oNVzQT3E/0.jpg)](https://www.youtube.com/watch?v=d7oNVzQT3E)
 
 Overview: [Overview Video](https://youtu.be/MMESgfq2Mjg)
 
