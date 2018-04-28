@@ -17,3 +17,6 @@ Software and Calibration: [Calibration Video](https://youtu.be/DCINQfvQelU)
 
 Engraving Example: [Engraving Video](https://youtu.be/Dicb1fmr8ko)
 
+Questions: chris.annin@gmail.com
+#
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/ChrisAnnin)
